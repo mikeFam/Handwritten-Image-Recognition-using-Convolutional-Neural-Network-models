@@ -1,5 +1,5 @@
 # Handwritten Image Recognition using Convolutional Neural Network models
-### Author: Sky Nguyen, Michael Pham Group : 23
+### Author: Sky Nguyen, Michael Pham 
 
 ## Description: 
   This is an image recognition program for recognizing handwritten digits images from the MNIST dataset. Four different achitectures of the Convolution Neural Network was implemented, a modified CNN model, LeNet, VGG and a simple CNN model. The objective of this program is to evaluate these different models in terms of the learning curve, accuracy and training time in respect of the application.
