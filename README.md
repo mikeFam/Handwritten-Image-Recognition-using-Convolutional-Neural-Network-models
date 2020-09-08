@@ -10,7 +10,7 @@
 
 ## Instruction (how to run):
   1. Open Command Prompt 
-  2. Redirect to the project folder "CS302-Python-2020-Group23" 
+  2. Redirect to the project folder "Handwritten-Image-Recognition-using-Convolutional-Neural-Network-models" 
   3. Run command: python main.py 
   4. Enter the name of the model and the number of epochs to run 
   5. As the program is executing, the selected model will start the training and testing process. Information of the results of the training and the testing processes will appear as it continues to run. 
